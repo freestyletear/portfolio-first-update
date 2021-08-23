@@ -57,12 +57,6 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 ---
 
-## Sources
-
-- 👨‍💻<p align="left"> <img width="800" height="500" src="https://raw.githubusercontent.com/freestyletear/Keith-_James_Delani_Studio/master/assets/images/link/Screenshot%20from%202021-07-24%2023-50-49.png" alt="Image showcasing Keith James' Delani studio site landing page" /> </p>
-
-
----
 ## 📫 Support and contact details
 
 - portfolio https://freestyletear.github.io/Personal_Portfolio/
