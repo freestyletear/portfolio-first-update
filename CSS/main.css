@@ -49,3 +49,8 @@ h3 span#three {
     width: 900px; */
     margin: auto 0;
 }
+input#formControlNameInput1 {
+  width: 100%;
+  height: 40px;
+  margin: 10px auto;
+}
