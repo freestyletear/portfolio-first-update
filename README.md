@@ -1,48 +1,76 @@
 
-<h1 align=center > WELCOME TO MY FIRST PERSONAL/ DEVELOPMENT PORTFOLIO </h1>
+<h1 align="center">I am Keith James 😃</h1>
+<h3 align="center"> Currently studying front-end development/ designing soon to become either a Fullstack developer/ Android Developer or just a computer programmer</h3> 
+<h3 align="center">25th July 2021
 
-<h3 align=center >Keith James</h3>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 
-<p align=center >This is my first portfolio website, 20th June 2021</p>
-<p align="center"> <img width="300" height="300" src="https://avatars.githubusercontent.com/u/85235878?v=4" alt="Image showcasing Keith James, the designer of this portfolio website and README respectively" /> </p>
 
-===========================================================================================================================
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freestyletear" alt="freestyletear github profile trophy's" /></a> </p>
+<a href="https://github.com/freestyletear/I-am-Keith-James-/network/members"><img src="https://img.shields.io/github/forks/freestyletear/I-am-Keith-James-" alt="Forks Badge"/></a>
 
-[![GitHub Issues](https://img.shields.io/github/issues/freestyletear/Personal_Portfolio)](https://freestyletear.github.io/Personal_Portfolio/issues)
 
----
+<img alt="Awesome GitHub Profile Readme" src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/11.gif"> </img>
 
-## Description
-It’s hard to believe… that we have come this far, what started out as nothing more than the gaze of a shooting star from a humble home, has come full circle to a dedicated and aspired human being, me. Now that the doors to prosperity are wide open( through Moringa School ) why wait any longer but show you what this humble brains can do, as of now i am on the verge of conquering front-end website design/ development training so as to gain knowledge that in return will be beneficial to both you and i and to show an example of this you will find some of the projects that i have already accomplished while you scroll along my portfolio, i leave the rest to you hope you will enjoy.
+<i>Loved the projects? Please consider **donating**  to +254788507559 to help me improve!</i>
 
-I did, i am and will continue to build this 'website' for it will and is containing fractions of parts of myself, by this i mean i seek to share the root of my development so as to coordinate with the rest of the world. With this as i call it My Portfolio i will be using this website to showcase my development from time to time.
-
----
-## I am a student and inspired developer.
-- I am currently a student at [Moringa School ][website]Learning everything **Websites Designing/ Development.**
-- 🌱 👯 Creating a pathway to colaborate with other. developers.
-- Love watching Tech videos.
-- 👨‍💻 All of my projects are available at [freestyletear@github][website-2]
-- 💬 Ask me about **, HTML, CSS**, Javascript not that much but already on the path to concquer it...
+</div>
 
 ---
-## Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> </p> 
+ ### Hi there 👋,
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="freestyletear github status on top languages used" /></p>
+ I am currently on the path of becoming computer programmer/ web developer/ designer and expanding more and more by the minute. I am based in Nairobi, Kenya. I decided to join this kind of career/ hobby path because i would love to be able to solve challenges with this kind of knowledge that i am gainning.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freestyletear&show_icons=true&locale=en&theme=cobalt" alt="freestyletear github status on extra pins" /></p>
+- 🌱 If you want to begin the journey of a web/application developer , I would recommend this course on [UDEMY](https://www.udemy.com/course/the-web-developer-bootcamp/) 🥳
+- 📝 I’m looking to collaborate on Frontend or ~~backend projects~~.
+- ⚡  I’m currently working on a personal project [OFRIEND] well it's personal i cant disclose it's development stages as of now.
+- 💬 Ask me about anything on **~~JAVASCRIPT~~, CSS, ~~SCSS~~, HTML, BOOTSTRAP and..._LIFE_..**
+- 👯 Checkout my other github repositories at [freestyletear](https://github.com/freestyletear?tab=repositories), if this option is not available then here is a list of some of the projects i have done:-
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freestyletear&show_icons=true&theme=cobalt" /></p>
+<div align="center">
 
+| Link                                                                       |
+|:--------------------------------------------------------------------------:|
+| https://freestyletear.github.io/Anita-s_Kitchen/                           |
+| https://freestyletear.github.io/my-fevorite-band/                          |
+| https://freestyletear.github.io/Keith-_James_Delani_Studio/                |
+| https://freestyletear.github.io/Keith_James_Akan_Name_Generator/?gender=on |
+| https://btrd-moringa-0d747.netlify.app/                                    |
+| https://optimistic-bohr-185874.netlify.app/                                |
+| https://github.com/freestyletear/password_locker                                    |
+| https://freestyletear.github.io/git-search-api/user                                |
+| And more to come...                                                        |
+</div>                                                     
+---
+
+## 🔭 My Github Stats
+<br>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=freestyletear&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="freestyletear github status on top languages used" /></p>
+
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=freestyletear&show_icons=true&locale=en&theme=cobalt" alt="freestyletear github status on extra pins" /></p>
+
+
+<p align="left"> <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=freestyletear&show_icons=true&theme=cobalt">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=freestyletear&show_icons=true&theme=cobalt&locale=en&layout=compact">
+</a> </p>
+<br><br>
+
+
+<h3 align="center"> Languages and Tools i Have Come Across and Tackled </h3>
+<br>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://miro.medium.com/max/2000/1*9HanDsRU11ZMsgDGJwN96w.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank"> <img src="https://cms-assets.tutsplus.com/uploads/users/30/posts/35633/preview_image/jquery-js.png" alt="jquery" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/typescript-for-beginners.png" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/docs/supporting/FAQ" target="_blank"> <img src="https://miro.medium.com/max/1200/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vs code" width="40" height="40"/> </a> </p>
+
+<p align="center"> <a href="https://en.wikipedia.org/wiki/Atom_(text_editor)" target="_blank"> <img src="https://download.softwsp.com/sites/13/2017/04/icon-atom.png" alt="atom" width="40" height="40"/> </a> <a href="https://www.theme-junkie.com/what-is-figma/" target="_blank"> <img src="https://image.topuwp.com/icon/2020-04-24/eec15c26939935795728ade75c3fff64.png" alt="figma" width="40" height="40"/> </a> <a href="https://help.miro.com/hc/en-us/articles/360017730533-What-Is-Miro-" target="_blank"> <img src="https://www.uxlift.org/assets/images/miro.png" alt="miro" width="40" height="40"/> </a> <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://images.ctfassets.net/mrop88jh71hl/55rrbZfwMaURHZKAUc5oOW/9e5fe805eb03135b82e962e92169ce6d/python-programming-language.png" alt="python" width="40" height="40"/> </a> </p>
+
+---
 ---
 ### Development
-Want to contribute? Great!
+>Want to contribute? Great!
 
 To fix a bug or enhance an existing module, follow these steps:
 
-- Fork the repo (<https://github.com/freestyletear/Personal_Portfolio/fork>)
+- Fork the repo reach out to (https://github.com/freestyletear/{in between here write the repository name}/fork)
 - Create a new branch (`git checkout -b improve-feature`)
 - Make the appropriate changes in the files
 - Add changes to reflect the changes made
@@ -50,35 +78,54 @@ To fix a bug or enhance an existing module, follow these steps:
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 
 
+
+## Setup/Installation Requirements
+* To clone a repo to your machine 
+* `git clone https://github.com/freestyletear/{here write the repository name}`
+* `cd into the repo name`
+* Navigate to index.html  and open it on your favorite browser
+Your browser must be JavaScript enabled for this to work
+
+### Installation Medium
+1. Steady Network.
+2. Weblink
+3. Github account.
+---
 ---
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/freestyletear/Personal_Portfolio/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/freestyletear/Personal_Portfolio/issues/new). Please include sample queries and their corresponding results.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here >(https://github.com/freestyletear/{in between here write the repository name}/issues/new)Like let's say i have a repository called my-portfolio oppening the issue page will be  https://github.com/freestyletear/my-portfolio-/issues/new     will be by including your search query and the expected result.
 
 ---
-## Features
-- Count-down timer.
-- HTML, CSS making of calculator.
+
+## Special Thanks 🙇
+- [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
+- [Over view video of the school.](https://www.youtube.com/watch?v=AtozUZ_GZRw&t=173s)
+
+<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.png" alt="Image showcasing Moringa School logo" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> </p> 
+
+- [Slumcode](http://slumcode.org/) for...being there, thanks team.
+- [One of there YouTube channels.](https://www.youtube.com/c/SlumcodeTV/featured)
+
+<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh3.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/> </p> 
+
+## License **MIT**
+
+[![CC0](https://licensebuttons.net/l/publicdomain/88x31.png)](https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/LICENSE)
 
 ---
-## Sources
 
-## Support and contact details
+## 📫 Here are a few more guides on how to reach me:
 
-keith.james@student.moringaschool.com
+- portfolio https://freestyletear.github.io/Personal_Portfolio/
+- email <br>**_keithjame@gmail.com<br>freestyletear@gmail.com_**
+- phone: _Airtel-Kenya_ :- +254788507559( at the moment just through message(**sms**) )
 
-freestyletear@gmail.com
+| [Linkedin](https://www.linkedin.com/in/keith-james-34a3041ba/) |
+[Facebook](https://web.facebook.com/keithjamesmerchantmagnifico/) |
+[Instagram](https://www.instagram.com/freestyletear/) |
+[Twitter](https://twitter.com/KeithJa90059609) |
+[Tik-tok](https://www.tiktok.com/@keithjames_themerchant?lang=en) |
 
 ---
-### License
->You can check out the full license [here][website-4]
-
-This project is licensed under the terms of the **MIT** license.
-
-
-[website]: https://moringaschool.com/
-[website-2]: https://github.com/freestyletear?tab=repositories
-[website-3]: https://freestyletear.github.io/Personal_Portfolio/
-[website-4]: https://github.com/freestyletear/Personal_Portfolio/blob/master/LICENCE
+---
