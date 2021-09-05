@@ -102,11 +102,11 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 ## Special Thanks 🙇
 - [Karen 'C' Primary School](https://www.kenyaprimaryschools.com/nairobi/karen-c-primary-school-langata-kibera/) for letting me enjoy most of my youthfull age...
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/kcp1.jpeg" alt="Image showcasing Karen `c` Primary School main hole" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/kcp5.jpeg" alt="Image showcasing Karen `C` Primary School students the year of 2014" width="300" height="200"/> </p> 
+<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp1.jpeg" alt="Image showcasing Karen `c` Primary School main hole" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp5.jpg" alt="Image showcasing Karen `C` Primary School students the year of 2014" width="300" height="200"/> </p> 
 
 - [ST. Barnabas Anyiko Mixed Secondary School](https://teacher.ac/st-barnabas-anyiko-secondary-school-contacts-location-and-2019-kcse-results/) for Eeeh! for Nocking me out a few time for this and that, which was realy worth the living...
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sbam1.jpeg" alt="Image showcasing a shallow image of ST. Barnabas Anyiko Mixed Secondary School" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sbam2.jpeg" alt="Image showcasing ST. Barnabas Anyiko Mixed Secondary School students of the year 2018 at the school laboratory" width="300" height="200"/> </p> 
+<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam1.jpeg" alt="Image showcasing a shallow image of ST. Barnabas Anyiko Mixed Secondary School" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam2.jpg" alt="Image showcasing ST. Barnabas Anyiko Mixed Secondary School students of the year 2018 at the school laboratory" width="300" height="200"/> </p> 
 
 - [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
 - [Over view video of the school.](https://www.youtube.com/watch?v=AtozUZ_GZRw&t=173s)
