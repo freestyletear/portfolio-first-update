@@ -102,21 +102,25 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 ## Special Thanks 🙇
 - [Karen 'C' Primary School](https://www.kenyaprimaryschools.com/nairobi/karen-c-primary-school-langata-kibera/) for letting me enjoy most of my youthfull age...
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp1.jpeg" alt="Image showcasing Karen `c` Primary School main hole" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp5.jpg" alt="Image showcasing Karen `C` Primary School students the year of 2014" width="300" height="200"/> </p> 
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp1.jpeg" alt="Image showcasing Karen `c` Primary School main hole" width="300" height="200"/>]( https://www.kenyaprimaryschools.com/nairobi/karen-c-primary-school-langata-kibera/ "Karen 'c' Primary School main hole")
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/kcp5.jpg" alt="Image showcasing Karen `C` Primary School students the year of 2014" width="300" height="200"/>]( https://www.kenyaprimaryschools.com/nairobi/karen-c-primary-school-langata-kibera/ "Karen `C` Primary School students the year of 2014")
 
 - [ST. Barnabas Anyiko Mixed Secondary School](https://teacher.ac/st-barnabas-anyiko-secondary-school-contacts-location-and-2019-kcse-results/) for Eeeh! for Nocking me out a few time for this and that, which was realy worth the living...
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam1.jpeg" alt="Image showcasing a shallow image of ST. Barnabas Anyiko Mixed Secondary School" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam2.jpg" alt="Image showcasing ST. Barnabas Anyiko Mixed Secondary School students of the year 2018 at the school laboratory" width="300" height="200"/> </p> 
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam1.jpeg" alt="Image showcasing a shallow image of ST. Barnabas Anyiko Mixed Secondary School" width="300" height="200"/> ]( https://teacher.ac/st-barnabas-anyiko-secondary-school-contacts-location-and-2019-kcse-results/ "shallow image of ST. Barnabas Anyiko Mixed Secondary School")
+[<img src="https://raw.githubusercontent.com/freestyletear/portfolio-first-update/master/IMG/sbam2.jpg" alt="Image showcasing ST. Barnabas Anyiko Mixed Secondary School students of the year 2018 at the school laboratory" width="300" height="200"/>]( hhttps://teacher.ac/st-barnabas-anyiko-secondary-school-contacts-location-and-2019-kcse-results/ "ST. Barnabas Anyiko Mixed Secondary School students of the year 2018 at the school laboratory")
 
 - [Moringa School](https://moringaschool.com) for shadding the light for not just me but the future...
 - [Over view video of the school.](https://www.youtube.com/watch?v=AtozUZ_GZRw&t=173s)
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.png" alt="Image showcasing Moringa School logo" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> </p> 
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms.png" alt="Image showcasing Moringa School logo" width="300" height="200"/> ]( https://moringaschool.com "Moringa School logo")
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/ms2.jpeg" alt="Image showcasing Moringa School Co-Founder" width="300" height="200"/> ]( https://moringaschool.com "Moringa School Co-Founder")
 
 - [Slumcode](http://slumcode.org/) for...being there, thanks team.
 - [One of there YouTube channels.](https://www.youtube.com/c/SlumcodeTV/featured)
 
-<p align="left"> <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>  <img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh3.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/> </p> 
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>]( http://slumcode.org/ "me and other students at Slumcode Hub")
+[<img src="https://raw.githubusercontent.com/freestyletear/I-am-Keith-James-/master/images/sh3.jpeg" alt="Image showcasing me and other students at Slumcode Hub" width="300" height="200"/>]( http://slumcode.org/ "me and other students at Slumcode Hub")
 
 ## License **MIT**
 
